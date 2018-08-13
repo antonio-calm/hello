@@ -1,2 +1,4 @@
 Hello!
 My name is Anton!
+Best regards,
+Anton
